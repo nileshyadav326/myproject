@@ -1,8 +1,22 @@
 .container{
-    width:1000px;
+    
     height:50px;
     background-color: blue;
+    
 }
+/*
+.head ul li{ 
+    float: left;
+    padding: 10px;
+    list-style: none;
+
+
+}
+.slider-image{
+
+}
+
+
 .product-list{
     width:100%;
     height: 300px;
@@ -18,9 +32,7 @@
     height:350px;
 
 }
-.slider-image{
 
-}
 .footer{
     width:1000px;
     height:50px;
@@ -32,6 +44,10 @@
     font-size: 50px;
     font-weight: bold;
    
+}
+
+.prod{
+    text-orientation:center;
 }
 
 @media all and (max-width: 500px) { 
@@ -46,5 +62,5 @@
         
     }     
 
- }
- 
+}
+*/
