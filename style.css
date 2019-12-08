@@ -1,5 +1,4 @@
-.container{
-    width:1000px;
+.container-fluid{
     height:50px;
     background-color: blue;
 }
@@ -14,8 +13,9 @@
 
 }
 .slider{
-    width:1000px;
+    padding-top: 5%;
     height:350px;
+    
 
 }
 .slider-image{
@@ -25,6 +25,12 @@
     width:1000px;
     height:50px;
     background-color: chartreuse;
+
+}
+.active {
+    display: inline;
+    padding: 0%;
+    background-color:blue ;
 
 }
 
