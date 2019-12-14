@@ -1,0 +1,33 @@
+.main-nav{
+    float: right;
+    list-style: none;
+    margin-top: 30px;
+
+}
+.main-nav li{
+    display: inline-block;
+    margin-left: 20px;
+
+}
+.main-nav li a{
+    text-decoration: none;
+    color:white;
+    padding: 5px;
+    font-size: 15px;
+    font-family: 'Courier New', Courier, monospace;
+    :
+
+}
+.main-nav li .active a{
+    border:1px solid white;
+    
+}
+.main-nav li a:hover{
+
+    border:1px solid white;
+}
+.logo img{
+    width:150px;
+    height:auto;
+    float:left;
+}

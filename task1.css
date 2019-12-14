@@ -1,0 +1,18 @@
+.hero-image{
+    background:url( "/images/1.jpg") no repeat;
+    background-size:cover;
+    position: relative;
+}
+.hero{
+    color:white;
+    position:fixed;
+    top:50%;
+    left:50%;
+}
+.hero h1{
+    font-size:24px;
+    text-align: center;
+
+}
+
+}
